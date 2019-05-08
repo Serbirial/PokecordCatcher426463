@@ -61,7 +61,6 @@ includes
   -stealth autotyper so you won't get flagged by discord || runs on your pc
   -more cooler commands besides trade :)  || such as autotrade, showcaughtlegends, etc
   -a better stealth system || a more customized code for better randomness and productivity
-  -my love <3 :3
 
 I CAN MAKE U SIMILAR CODE FOR OTHER BOTS TOO :o for a small price of course 
   ALL YOU NEED TO DO IS JUST EMAIL ME : deadly.venom.426463@protonmail.com
