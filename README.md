@@ -49,11 +49,11 @@ Questions:
 
 ps- if you wanna support me check out the addresses below ^_^
 ---------------------------------------------------------------------
-BTC: 1JCzjD4LGHLoYJ44yDnZQFhYRWzyxNk17C
-ETHER: 0x9d2e85331fAfCe6A34bFBa04e13bec34d6c63656
-BITCOIN CASH: qz7taec0w4zadmtnz5vrnq670pjzkmf9lvq4h783n7
-USD PAX: 0x9d2e85331fAfCe6A34bFBa04e13bec34d6c63656
-STELLER: GCR5OGFN5NS35B44UFIV4RAYH56BMO6ZAIJGVZ7JO6G5DHK4IFRBCI2J
+BTC: 1JCzjD4LGHLoYJ44yDnZQFhYRWzyxNk17C ||
+ETHER: 0x9d2e85331fAfCe6A34bFBa04e13bec34d6c63656 ||
+BITCOIN CASH: qz7taec0w4zadmtnz5vrnq670pjzkmf9lvq4h783n7 ||
+USD PAX: 0x9d2e85331fAfCe6A34bFBa04e13bec34d6c63656 ||
+STELLER: GCR5OGFN5NS35B44UFIV4RAYH56BMO6ZAIJGVZ7JO6G5DHK4IFRBCI2J ||
 ---------------------------------------------------------------------
 
 IF YOU WANNA GET THE DONATOR VERSION THEN EMAIL ME AT : deadly.venom.426463@protonmail.com
