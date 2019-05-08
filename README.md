@@ -2,7 +2,7 @@
 # Made by someone who cares about you all :)
 # LetsCrashThePokecordMarketAndFuckMiles
 
-# check out below for more awesome tools from me and future updates #
+check out below for more awesome tools from me and future updates #
 
 ---------------------------------------------------------------------
 
