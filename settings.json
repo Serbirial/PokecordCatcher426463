@@ -1,0 +1,7 @@
+{
+  "prefix": "??",
+  "token": "YOUR TOKEN HERE",
+  "timer": 1,
+  "allowed_channels_ids": [IDS OF CHANNEL YOU WANNA RUN YOUR BOT IN SEPERATED BY COMMAS],
+  "allowed_users_ids": [ID OF USERS THAT CAN ACCESS THIS BOT SEPERATED BY COMMAS]
+}
