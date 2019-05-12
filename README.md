@@ -7,18 +7,18 @@ check out below for more awesome tools from me and future updates #
 ---------------------------------------------------------------------
 
 STEPS FOR RUNNING ON REPL.IT:
-  * step 1: make a new discord account and get it's token || GOOGLE OR YOUTUBE IT
-  * step 2: change the settings on your settings.json
-  * step 3: host the bot on https://repl.it/ --> language = python
-  * step 4: run it successfully :)
+  * step 1: Make a new discord account and get it's token || GOOGLE OR YOUTUBE IT
+  * step 2: Change the settings on your settings.json
+  * step 3: Host the bot on https://repl.it/ --> language = python
+  * step 4: Run it successfully :)
 
 STEPS FOR RUNNING IT ON YOUR PC:
       requirements: Python Latest Version 3.x.x & ALL THE PACKAGES MENTIONED IN MAIN.PY
 
-  * step 1: make a new discord account and get it's token || GOOGLE OR YOUTUBE IT
-  * step 2: change the settings on your settings.json
-  * STEP 3: remove the line "keep_alive()" from the end of the main.py file 
-  * step 4: run it using right click > open
+  * step 1: Make a new discord account and get it's token, google or youtube it.
+  * step 2: Change the settings on your settings.json.
+  * STEP 3: Remove the line "keep_alive()" from the end of the main.py file .
+  * step 4: Run it using right click > open.
 
 ---------------------------------------------------------------------
 
@@ -37,17 +37,17 @@ A WORKING SETTINGS.JSON SHOULD LOOK LIKE THIS:
 ---------------------------------------------------------------------
 
 Questions:
-  * Q:how do i know if i'm safe and you'll not steal my token?
-  * A:you have the full source code , analyze it or ask your "Developer Friend" to check for unusual activities 
+  * Q: How do i know if i'm safe and you'll not steal my token?
+  * A: You have the full source code, analyze it or ask your "Developer Friend" to check for unusual activities.
 
-  * Q:who are you?
-  * A:i am someone who cares about you all :) and also because i don't like miles >:(
+  * Q: Who are you?
+  * A: I am someone who cares about you all :) and also because i don't like miles >:(
 
-  * Q:i can't run the bot . how do i get it to run?
-  * A:i've told you enough to get you started running the bot. ask your friends for help if u still have issues  
+  * Q: I can't run the bot. how do i get it to run?
+  * A: I've told you enough to get you started running the bot. ask your friends for help if you still have issues.
 
-  * Q:Will i get banned for using this ?
-  * A: currently the script is undetectable || change the prefix and timer on settings.json if u wanna be sure
+  * Q: Will i get banned for using this?
+  * A: Currently the script is undetectable. || change the prefix and timer on settings.json if you wanna be sure.
 
 ps- if you wanna support me check out the addresses below ^_^
 ---------------------------------------------------------------------
@@ -60,15 +60,14 @@ ps- if you wanna support me check out the addresses below ^_^
 
 IF YOU WANNA GET THE DONATOR VERSION THEN EMAIL ME AT : deadly.venom.426463@protonmail.com
 includes
-  -stealth autotyper so you won't get flagged by discord || runs on your pc
-  -more cooler commands besides trade :)  || such as autotrade, showcaughtlegends, etc
-  -a better stealth system || a more customized code for better randomness and productivity
+  -Stealth autotyper so you won't get flagged by discord || runs on your pc
+  -More cooler commands besides trade :)  || such as autotrade, showcaughtlegends, etc
+  -A better stealth system || a more customized code for better randomness and productivity
 
 I CAN MAKE U SIMILAR CODE FOR OTHER BOTS TOO :o for a small price of course 
   ALL YOU NEED TO DO IS JUST EMAIL ME : deadly.venom.426463@protonmail.com
 -----------------------------------------------------------------
-SO, YOU WANNA CONTACT ME ?
+SO, YOU WANNA CONTACT ME?
 EMAIL: deadly.venom.426463@protonmail.com
 
-ON DISCORD? 
-: I SHOULDN'T SHARE IT HERE ;-;    
+DISCORD: I SHOULDN'T SHARE IT HERE ;-;    
